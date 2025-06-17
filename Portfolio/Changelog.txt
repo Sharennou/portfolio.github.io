@@ -1,0 +1,7 @@
+﻿Ajouts:
+* Ajout d’un titre de site
+* Ajout d’une description du site
+* Ajout d’une classe pour les titres de section
+* Ajout de rôles
+* Ajout des liens dans contact (et s’ouvre dans un nouvel onglet)
+* Ajout d’un zoom des images quand je clique sur les images

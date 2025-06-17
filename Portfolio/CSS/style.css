@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: Signika, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(20, 22, 24);
+}
+
+@font-face {
+    font-family: Signika;
+    src: url(/fonts/Signika-Light.otf);
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+.item_p {
+    font-size: 18px !important;
+    line-height: 1.5 !important;
+}
+
+.about-text p {
+    font-size: 18px !important;
+    line-height: 1.5 !important;
+    margin-bottom: 1em !important;
+}
